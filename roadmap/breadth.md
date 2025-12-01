@@ -1,0 +1,29 @@
+# Topics to build breadth
+- Data Structures and Algorithms
+- Computational Complexity
+- Discrete Math
+- Bash / Shell
+- HTPP
+- DNS
+- TLS, certification and encyption
+- Consensus (Raft, Paxos)
+- Replication, sharding, partitioning
+- Fault Tolerance, retries, backpressure
+- Vector clocks
+- Consistency Models
+- Data lakes
+- Streaming Ingestion and CDC
+- Feature Stores
+- Query Engines (Presto/ Trino)
+- Low - latency serving (Redis, Clickhouse)
+- Airflow
+- Dagster
+- Docker
+- Kubernetes
+- IaC
+- Go
+- Typescript
+- JavaScript
+- CSS
+- DOM, browser APIs
+- DevTools
